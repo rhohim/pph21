@@ -1,0 +1,4 @@
+No,Nama,KTP,NPWP,Bulan_Masuk,Masa_Pajak,Tahun_Pajak,Kode_Pajak,Pembetulan,Gaji_Pokok,Tunjangan,Metode,
+1,Thomas,456821535,0,1,6,2022,21-100-01,0,40000000,1400000,NETTO,
+2,Thomas a,456821556,0,12,6,2022,21-100-02,0,16500000,0,GROSS UP,
+3,Thomas c,456821523,0,8,6,2022,21-100-03,0,8000000,2000000,GROSS UP,

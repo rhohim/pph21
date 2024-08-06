@@ -1,0 +1,4 @@
+No,Nama,ERR,NPWP,Bulan_Masuk,Masa_Pajak,Tahun_Pajak,Kode_Pajak,Pembetulan,Gaji_Pokok,Status,Tunjangan,Metode,Kode_Negara,Jumlah_Bruto,Jumlah_pph
+1,Agis,456821535,0,1,6,2022,21-100-01,0,40000000,TK0,1400000,NETTO,,,
+2,Agis,456821556,0,12,6,2022,21-100-02,0,16500000,K1,0,GROSS UP,,,
+3,Agis,456821523,0,8,6,2022,21-100-03,0,8000000,K2,2000000,GROSS UP,,,
